@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+groq
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-groq
+supabase
+supabase-py
+pgvector
+psycopg2-binary
+uuid
+requests
